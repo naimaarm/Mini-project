@@ -1,5 +1,4 @@
 # Mini-project
-EEI3346 - WEB APPLICATIONS DEVELOPMENT-
 Create a website that displays Tourist information about Sri Lanka. This must contain all the 
 well-known tourist places. It can be named “Pearl of the Indian Ocean” and it should 
 contain an appropriate theme. Users could be able to browse Province/District wise 
